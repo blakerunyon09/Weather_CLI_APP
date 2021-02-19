@@ -23,6 +23,15 @@ Feel free to fork our repo, clone it, and run our runner.rb file.
 ruby runner.rb
 ```
 
+## User Stories
+
+* As a new user, I would like to create an account, so that I can have a profile.
+* As a user, I would like to login to my account, so that I can access my profile.
+* As a user, I would like to favorite a city, so that I can see my favorite cities.
+* As a user, I would like to view my favorite cities, so that I can retrieve the weather.
+* As a user, I would like to remove a city, so that I can update my favorites.
+* As a user, I would like to log out, so that I can my profile isn’t accessible.
+
 ## Current Features
 
 #### Login
