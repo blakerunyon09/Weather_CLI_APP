@@ -23,6 +23,10 @@ Feel free to fork our repo, clone it, and run our runner.rb file.
 ruby runner.rb
 ```
 
+## Domain Model // ERD
+
+![alt text](https://user-images.githubusercontent.com/69321748/108559949-4067e900-72b9-11eb-9c19-46c2102c60b1.png)
+
 ## User Stories
 
 * As a new user, I would like to create an account, so that I can have a profile.
